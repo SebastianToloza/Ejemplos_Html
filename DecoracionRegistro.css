@@ -1,0 +1,49 @@
+#RegistroTabla{
+    height: 550px;
+    width: 350px;
+    border:10px dashed;
+    border-color: rgb(228, 127, 33) rgb(235, 109, 63);
+    background: black;
+
+}
+#DivTitulo{
+    position: relative;
+    left: 140px;
+}
+#Titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: white;
+    
+}
+
+.DivsEscritura{
+    padding: 1%;
+    margin: 3%;
+    display: block;
+    width: 300px;
+    border: 2px solid;
+    color: orangered;
+    position: relative;
+    left: 10px;
+    border-radius: 80px;
+}
+.LetrasInput{
+    opacity: 0.4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#DivRegistrar{
+    position: relative;
+    left: 90px;
+    border: 2px solid;
+    border-radius: 20px;
+    color: brown;
+    width: 150px;
+}
+#Registrar{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
