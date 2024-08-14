@@ -1,11 +1,65 @@
-#RegistroTabla{
-    height: 550px;
-    width: 350px;
-    border:10px dashed;
-    border-color: rgb(228, 127, 33) rgb(235, 109, 63);
-    background: black;
+p{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+#fondo{
+    background-color: rgb(255, 255, 255);
+}
+
+
+#principal{
+    width: 1200px;
+    height: 600px;
+    border: 3px solid;
+    position: relative;
+    display: block;
+}
+
+s
+#DivInformacion{
+    
+    border: 2px solid;
+    width: 500px;
+    display: inline-block;
+    background:  black;
+    position: relative;
+    top: 1.5em;
+}
+
+
+#DivBien{
+    position: relative;
+    bottom: 0em;
+
 
 }
+.Info{
+    color: rgb(128, 119, 119);
+}
+
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------------------------*/
+#RegistroTabla{
+    border: 6px solid;
+    color: brown;
+    display: inline-block;
+    width: 350px;
+    background: black;
+    position: relative;
+    left: 15em;
+    top: 2em;
+}
+
+
+
 #DivTitulo{
     position: relative;
     left: 140px;
@@ -13,8 +67,7 @@
 #Titulo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-    color: white;
-    
+    color: white;   
 }
 
 .DivsEscritura{
@@ -40,10 +93,11 @@
     border-radius: 20px;
     color: brown;
     width: 150px;
+    margin: 2%;
 }
 #Registrar{
-    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     
 }
+
