@@ -1,0 +1,114 @@
+p{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+#fondo{
+    background-color: hwb(0 41% 57%);
+}
+
+#HeadColor{
+    color: black;
+    display: block;
+    border: 2px solid;
+    height: 200px;
+    background-color: black;
+}
+#Logo{
+    position: relative;
+    left: 100em;
+}
+#principal{
+    width: 1200px;
+    height: 700px;
+
+    position: relative;
+    left: 20em;
+    display: block;
+}
+
+#DivInformacion{
+    
+    border: 8px outset;
+    width: 500px;
+    display: inline-block;
+    color: aliceblue;
+    background:  black;
+    position: relative;
+    top: 1.5em;
+}
+
+
+#DivBien{
+    position: relative;
+    bottom: 0em;
+
+
+}
+.Info{
+    color: rgb(128, 119, 119);
+}
+
+/*-------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------*/
+/*-------------------------------------------------------------------------------------------------------------*/
+#RegistroTabla{
+    border: 6px solid;
+    color: brown;
+    display: inline-block;
+    width: 350px;
+    background: black;
+    position: relative;
+    left: 15em;
+    top: 2em;
+}
+
+
+
+#DivTitulo{
+    position: relative;
+    left: 140px;
+}
+#Titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: white;   
+}
+
+.DivsEscritura{
+    padding: 1%;
+    margin: 3%;
+    display: block;
+    width: 300px;
+    border: 2px solid;
+    color: orangered;
+    position: relative;
+    left: 10px;
+    border-radius: 80px;
+}
+.LetrasInput{
+    opacity: 0.4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#DivRegistrar{
+    position: relative;
+    left: 90px;
+    border: 2px solid;
+    border-radius: 20px;
+    color: brown;
+    width: 150px;
+    margin: 2%;
+}
+#Registrar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+
